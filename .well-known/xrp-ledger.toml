@@ -1,9 +1,9 @@
 # xrp-ledger.toml for multiple tokens
 
 [[CURRENCIES]]
-code = "TOKEN1"
-issuer = "rEXAMPLEISSUER"
-name = "Token One"
+code = "TESTBEST1"
+issuer = "rBSRJkUPSWCkCWicQ95aY5SYTCZzJv2mXK"
+name = "Token best 1"
 desc = "This is the first token for my project."
 website = "https://example.com/token1"
 twitter = "https://twitter.com/YourToken1Handle"
