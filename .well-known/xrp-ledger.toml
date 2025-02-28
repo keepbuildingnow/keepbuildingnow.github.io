@@ -8,6 +8,7 @@ desc = "This is the first token for my project."
 website = "https://example.com/token1"
 twitter = "https://twitter.com/YourToken1Handle"
 telegram = "https://t.me/YourToken1Channel"
+image_url = "https://i.imgur.com/8mQ63aQ.jpeg"
 
 [[CURRENCIES]]
 code = "TOKEN2"
@@ -17,3 +18,4 @@ desc = "This is the second token for my project."
 website = "https://example.com/token2"
 twitter = "https://twitter.com/YourToken2Handle"
 telegram = "https://t.me/YourToken2Channel"
+image_url = "https://i.imgur.com/8mQ63aQ.jpeg"
