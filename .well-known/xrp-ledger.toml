@@ -19,3 +19,14 @@ website = "https://example.com/token2"
 twitter = "https://twitter.com/YourToken2Handle"
 telegram = "https://t.me/YourToken2Channel"
 image_url = "https://i.imgur.com/8mQ63aQ.jpeg"
+
+[[CURRENCIES]]
+code = "BESTiTEST"
+issuer = "rGrrk59dRsah55YVrHNU1mQqjAtxqEpv2p"
+name = "Best i Test Token"
+desc = "Best Test and Test Best."
+website = "https://example.com/token2"
+twitter = "https://twitter.com/YourToken2Handle"
+telegram = "https://t.me/YourToken2Channel"
+image_url = "https://i.imgur.com/8mQ63aQ.jpeg"
+
